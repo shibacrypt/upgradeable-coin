@@ -4,6 +4,7 @@ version = '1.0.0'
 
 [addresses]
 upgradeable_coin = "_"
+owner = "0xa11ce"
 
 [dependencies.AptosFramework]
 git = 'https://github.com/aptos-labs/aptos-core.git'
