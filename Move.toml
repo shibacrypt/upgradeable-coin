@@ -2,6 +2,9 @@
 name = 'upgradeable-coin'
 version = '1.0.0'
 
+[addresses]
+upgradeable_coin = "_"
+
 [dependencies.AptosFramework]
 git = 'https://github.com/aptos-labs/aptos-core.git'
 rev = 'main'
